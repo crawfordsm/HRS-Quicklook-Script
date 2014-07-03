@@ -1,0 +1,928 @@
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 1 2061. 229.9286
+	image	R201404270046_b
+	aperture	1
+	beam	1
+	center	2061. 229.9286
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4081.
+		-33.46209
+		-123.7861
+		-67.60622
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 2 2061. 429.4296
+	image	R201404270046_b
+	aperture	2
+	beam	2
+	center	2061. 429.4296
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		21.
+		4121.
+		-35.39222
+		-124.0684
+		-69.50581
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 3 2061. 620.815
+	image	R201404270046_b
+	aperture	3
+	beam	3
+	center	2061. 620.815
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4121.
+		-35.60038
+		-121.7189
+		-69.28763
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 4 2061. 804.5782
+	image	R201404270046_b
+	aperture	4
+	beam	4
+	center	2061. 804.5782
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		1.
+		4121.
+		-35.30931
+		-118.5223
+		-70.48177
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 5 2061. 981.1686
+	image	R201404270046_b
+	aperture	5
+	beam	5
+	center	2061. 981.1686
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		21.
+		4121.
+		-35.60061
+		-116.5921
+		-69.8948
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 6 2061. 1150.954
+	image	R201404270046_b
+	aperture	6
+	beam	6
+	center	2061. 1150.954
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4121.
+		-35.7521
+		-114.4998
+		-69.68993
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 7 2061. 1314.336
+	image	R201404270046_b
+	aperture	7
+	beam	7
+	center	2061. 1314.336
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		21.
+		4121.
+		-35.70478
+		-112.0142
+		-70.18468
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 8 2061. 1471.619
+	image	R201404270046_b
+	aperture	8
+	beam	8
+	center	2061. 1471.619
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4121.
+		-35.83426
+		-110.1374
+		-69.91432
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 9 2061. 1623.125
+	image	R201404270046_b
+	aperture	9
+	beam	9
+	center	2061. 1623.125
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		1.
+		4121.
+		-35.59808
+		-107.2762
+		-71.11696
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 10 2061. 1769.186
+	image	R201404270046_b
+	aperture	10
+	beam	10
+	center	2061. 1769.186
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		21.
+		4121.
+		-35.82483
+		-105.798
+		-70.52279
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 11 2061. 1910.035
+	image	R201404270046_b
+	aperture	11
+	beam	11
+	center	2061. 1910.035
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4121.
+		-35.92277
+		-104.1686
+		-70.23787
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 12 2061. 2045.954
+	image	R201404270046_b
+	aperture	12
+	beam	12
+	center	2061. 2045.954
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4121.
+		-35.94078
+		-102.3283
+		-70.32841
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 13 2061. 2177.196
+	image	R201404270046_b
+	aperture	13
+	beam	13
+	center	2061. 2177.196
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4121.
+		-35.97194
+		-100.5257
+		-70.44961
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 14 2061. 2304.104
+	image	R201404270046_b
+	aperture	14
+	beam	14
+	center	2061. 2304.104
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4101.
+		-36.18184
+		-74.84332
+		-72.12982
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 15 2061. 2426.652
+	image	R201404270046_b
+	aperture	15
+	beam	15
+	center	2061. 2426.652
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4101.
+		-36.18184
+		-74.84332
+		-72.12982
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 16 2061. 2545.08
+	image	R201404270046_b
+	aperture	16
+	beam	16
+	center	2061. 2545.08
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		2231.
+		10.4554
+		1.349171
+		-20.35856
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 17 2061. 2659.566
+	image	R201404270046_b
+	aperture	17
+	beam	17
+	center	2061. 2659.566
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		1.
+		4121.
+		-35.92058
+		-93.04083
+		-72.01382
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 18 2061. 2770.472
+	image	R201404270046_b
+	aperture	18
+	beam	18
+	center	2061. 2770.472
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4121.
+		-36.08453
+		-92.46974
+		-70.99385
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 19 2061. 2877.891
+	image	R201404270046_b
+	aperture	19
+	beam	19
+	center	2061. 2877.891
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		21.
+		4121.
+		-36.10633
+		-90.7086
+		-71.45435
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 20 2061. 2981.943
+	image	R201404270046_b
+	aperture	20
+	beam	20
+	center	2061. 2981.943
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		21.
+		4121.
+		-36.15534
+		-89.33075
+		-71.50141
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 21 2061. 3082.77
+	image	R201404270046_b
+	aperture	21
+	beam	21
+	center	2061. 3082.77
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4121.
+		-36.27653
+		-88.21774
+		-71.35248
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 22 2061. 3180.452
+	image	R201404270046_b
+	aperture	22
+	beam	22
+	center	2061. 3180.452
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		21.
+		4121.
+		-36.24242
+		-86.58163
+		-71.80751
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 23 2061. 3275.224
+	image	R201404270046_b
+	aperture	23
+	beam	23
+	center	2061. 3275.224
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4121.
+		-36.3487
+		-85.57767
+		-71.60159
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 24 2061. 3367.164
+	image	R201404270046_b
+	aperture	24
+	beam	24
+	center	2061. 3367.164
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4111.
+		-36.03044
+		-83.57807
+		-71.38589
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 25 2061. 3456.352
+	image	R201404270046_b
+	aperture	25
+	beam	25
+	center	2061. 3456.352
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4111.
+		-36.07736
+		-82.33437
+		-71.52671
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 26 2061. 3542.951
+	image	R201404270046_b
+	aperture	26
+	beam	26
+	center	2061. 3542.951
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		21.
+		4111.
+		-36.11096
+		-80.83249
+		-71.96376
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 27 2061. 3627.032
+	image	R201404270046_b
+	aperture	27
+	beam	27
+	center	2061. 3627.032
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4101.
+		-35.83833
+		-79.21997
+		-71.47204
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 28 2061. 3708.717
+	image	R201404270046_b
+	aperture	28
+	beam	28
+	center	2061. 3708.717
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4101.
+		-35.92221
+		-78.07211
+		-71.6195
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 29 2061. 3788.059
+	image	R201404270046_b
+	aperture	29
+	beam	29
+	center	2061. 3788.059
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4101.
+		-35.99181
+		-76.94425
+		-71.79663
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 30 2061. 3865.18
+	image	R201404270046_b
+	aperture	30
+	beam	30
+	center	2061. 3865.18
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4101.
+		-36.07512
+		-75.84629
+		-71.97002
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 31 2061. 3940.176
+	image	R201404270046_b
+	aperture	31
+	beam	31
+	center	2061. 3940.176
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4101.
+		-36.11568
+		-74.84333
+		-72.12981
+
+# Wed 16:44:47 02-Jul-2014
+begin	aperture R201404270046_b 32 2061. 3940.258
+	image	R201404270046_b
+	aperture	32
+	beam	32
+	center	2061. 3940.258
+	low	-2060. -9.202703
+	high	2061. 9.893947
+	background
+		xmin -1473.429
+		xmax 40.
+		function chebyshev
+		order 1
+		sample -40:-20,20:40
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	7
+		2.
+		3.
+		31.
+		4101.
+		-36.19747
+		-74.84331
+		-72.12981
+
