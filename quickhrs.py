@@ -106,9 +106,7 @@ def quickhrs(image, wavelength, log=None, verbose=True):
 
     #plot the data 
     plot_order = str(-(int(order)) + 86)
-    iraf.noao(_doprint=0)
-    iraf.onedspec(_doprint=0)
-    iraf.splot(images=w_image, line=plot_order)
+    iraf.noao.onedspec.splot(images=w_image, line=plot_order)
 
  
 
